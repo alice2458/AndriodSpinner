@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spinnner</string>
+    <string name="city_prompt">下拉列表应用</string>
+    <string name="tvCity">请选择你喜欢的城市</string>
+</resources>
